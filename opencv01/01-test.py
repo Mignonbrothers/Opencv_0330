@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import sys
 
-# 이미지의 크기를 설정
+# 이미지의 크기를 설정임
 canvas = np.full((512, 512, 3), 255, dtype=np.uint8)
 
 # 그림판을 여는 함수
