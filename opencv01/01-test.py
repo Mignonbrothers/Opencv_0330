@@ -11,7 +11,6 @@ cv2.imshow('Canvas', canvas)
 
 def onMouse(event, x, y, flags, param):
 
-
     global oldx, oldy
 
     # 왼쪽 마우스 버튼을 누르면서 기록되는 좌표

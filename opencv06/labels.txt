@@ -1,0 +1,3 @@
+0 HandPhone
+1 Wallet
+2 Receipt
